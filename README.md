@@ -49,10 +49,6 @@ For Germany, that would be :
 
 ...so on and so forth.
 
-## Link to the hosted website?
-
-https://mahesh147.github.io/Weather-Forecast
-
 ### NOTE
 
 If you like this project, consider giving it a star. I'd appreciate it. :D
